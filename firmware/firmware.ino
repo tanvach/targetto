@@ -48,7 +48,9 @@ TBlendType    currentBlending;
 volatile unsigned long timestamp;
 volatile byte hitInterruptCounter = 0;
 
-
+// You can add more emojis in this array. Make sure they are ASCII (no unicode characters)!
+// Don't forget to escape quotes.
+// Sometimes a character needs to be repeated for it to be sent. Maybe a bug in Bluetooth LE firmware?
 char *emojis[] = {
   "\\_(._.)_/",
   "(/^_^)/",
