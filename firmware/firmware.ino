@@ -9,7 +9,6 @@
 #define FACTORYRESET_ENABLE         0
 #define MINIMUM_FIRMWARE_VERSION    "0.6.6"
 #define VERBOSE_MODE                   true  // If set to 'true' enables debug output
-#define BUFSIZE                        128   // Size of the read buffer for incoming data
 
 #define BLUEFRUIT_SPI_CS               8
 #define BLUEFRUIT_SPI_IRQ              7
