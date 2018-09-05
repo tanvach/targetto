@@ -20,3 +20,7 @@ Extreme pair programming target!
 - Connect Sound FX mini sound board to computer via USB
 - Copy up to 10 wav or ogg files. Make sure they are named T00RANDn.wav or T00RANDn.ogg, where n = 0 to 9
 - Make sure to eject the drive before disconnecting. Otherwise the sound files may not be recognized by the Sound FX mini
+
+# Layout
+
+![](img/layout.png?raw=true "Layout")
